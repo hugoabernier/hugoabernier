@@ -1,5 +1,7 @@
 # Hugo Bernier
 
+
+
 I'm an indenpendent consultant with over 30 years of IT experience (that's right, I started working two years before I was born 😋).
 
 I've been working with SharePoint since is was still codenamed **Tahoe** (that's why my blog is called [TahoeNinjas.blog](https://tahoeninjas.blog)) and I still love it.
