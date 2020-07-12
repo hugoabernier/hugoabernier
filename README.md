@@ -1,6 +1,6 @@
 # Hugo Bernier
 
-<img src='./assets/tahoeninjatransparent.png' alt='Tahoe Ninja' width='100'/>
+<img src='https://github.com/hugoabernier/hugoabernier/raw/master/assets/tahoeninjatransparent.png' alt='Tahoe Ninja' width='100'/>
 
 I'm an indenpendent consultant with over 30 years of IT experience (that's right, I started working two years before I was born 😋).
 
