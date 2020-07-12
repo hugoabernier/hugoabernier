@@ -16,4 +16,4 @@ As the self-proclaimed "World's Laziest Developer" and a certified SCRUM Master,
 
 I'm super-passionate about technology, user experience, and accessibility and I get to travel around the world to [speak about it](https://sessionize.com/bernierh/). I have worked in Canada, the United States, Germany, Finland, Singapore, Hungary, France, and the United Kingdom. 
 
-As a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003624?fullName=Hugo%20Bernier) and a [PnP Team member](https://aka.ms/m365pnp), Hugo has created several PnP reusable controls, property controls, Office365-CLI commands, and many sample web parts and extensions.
+As a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003624?fullName=Hugo%20Bernier) and a [PnP Team member](https://aka.ms/m365pnp), I get to help with PnP initiatives like PnP reusable controls, property controls, Office365-CLI, and sample web parts and extensions.
