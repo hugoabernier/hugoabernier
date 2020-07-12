@@ -1,9 +1,13 @@
 # Hugo Bernier
 
-Hugo is someone organizations call when their SharePoint and Dynamics 365 projects are doomed to fail and need help to get things back on track.
+I'm an indenpendent consultant with over 30 years of IT experience (that's right, I started working two years before I was born 😋).
 
-As the self-proclaimed "World's Laziest Developer" and a certified SCRUM Master, he teaches organizations how to achieve success with the least effort possible. 
+I've been working with SharePoint since is was still codenamed **Tahoe** (hence my blog [TahoeNinjas.blog](https://tahoeninjas.blog) and I still love it.
 
-Hugo has worked in Canada, the United States, Germany, Finland, Singapore, Hungary, France, and the United Kingdom. 
+People seem to call me when they've tried to implement a software project unsuccessfully two or three times before.
 
-As a Microsoft MVP and a PnP Team member, Hugo has created several PnP reusable controls, property controls, Office365-CLI commands, and many sample web parts and extensions.
+As the self-proclaimed "World's Laziest Developer" and a certified SCRUM Master, I like to teach organizations how to succeed with the least effort possible. 
+
+I'm super-passionate about technology, user experience, and accessibility and I get to travel around the world to [speak about it](https://sessionize.com/bernierh/). I have worked in Canada, the United States, Germany, Finland, Singapore, Hungary, France, and the United Kingdom. 
+
+As a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003624?fullName=Hugo%20Bernier) and a [PnP Team member](https://aka.ms/m365pnp), Hugo has created several PnP reusable controls, property controls, Office365-CLI commands, and many sample web parts and extensions.
