@@ -2,15 +2,15 @@
 
 <img src='https://github.com/hugoabernier/hugoabernier/raw/master/assets/tahoeninjatransparent.png' alt='Tahoe Ninja' width='100'/>
 
-I'm an indenpendent consultant with over 30 years of IT experience (that's right, I started working two years before I was born 😋).
+I'm a Cloud Solution Architect at Microsoft. 
+
+Prior to Microsoft, I worked as independent consultant with over 30 years of IT experience (that's right, I started working two years before I was born 😋).
 
 I've been working with SharePoint since is was still codenamed **Tahoe** (that's why my blog is called [TahoeNinjas.blog](https://tahoeninjas.blog)) and I still love it.
 
 I've also been using Dynamics 365 since the early days. 
 
 I worked as a management consultant with [McKinsey & Company](https://www.mckinsey.com/), where I learned to combine my love for problem solving and geekiness to solve business problems using cool technologies.
-
-People seem to call me when they've tried to implement a software project unsuccessfully two or three times before.
 
 As the self-proclaimed "World's Laziest Developer" and a certified SCRUM Master, I like to teach organizations how to succeed with the least effort possible. 
 
