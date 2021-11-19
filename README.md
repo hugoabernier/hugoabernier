@@ -1,5 +1,7 @@
 # Hugo Bernier
 
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoabernier&show_icons=true&count_private=true)
+
 <img src='https://github.com/hugoabernier/hugoabernier/raw/master/assets/tahoeninjatransparent.png' alt='Tahoe Ninja' width='100'/>
 
 I'm a Cloud Solution Architect at Microsoft. 
