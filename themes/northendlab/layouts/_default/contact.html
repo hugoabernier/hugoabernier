@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center align-items-top text-center text-lg-left">
+      <div class="col-lg-7">
+        <h2 class="mb-4">{{ .Title | markdownify }}</h2>
+        <div class="content">{{ .Content }}</div>
+        <iframe width="640px" height="900px"
+          src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAYTUTzRUMjdaS083RU5UTVo5MzlNVlFMSEZQWTlGNC4u&embed=true"
+          frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh"
+          allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

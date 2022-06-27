@@ -1,0 +1,237 @@
+############################ Default configuration #########################
+baseURL = "https://hugoabernier.github.io/"
+
+# site title 
+title = "Tahoe Ninjas"
+
+# theme
+theme = "northendlab"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+# disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+
+# disable language
+disableLanguages = [""] # desable language from here
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+[markup.goldmark.renderer]
+unsafe= true
+
+######################### Default Parameters ###########################
+[params]
+# logo
+logo = "images/logo.svg"
+# favicon
+favicon = "images/favicon.svg"
+# meta data
+
+home = "Home"
+# Meta data
+description = "Discover the ancient art of SharePointjutsu"
+author = "Hugo Bernier"
+
+# Google Analitycs
+# googleAnalitycsID = "320775101"
+clarityProjectID = "ci586abdwh"
+
+# copyright
+copyright = "&copy; Copyright 2022, Hugo Bernier | Opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+
+
+# homepage main section
+mainSections = ["posts"]
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+
+# search *** true or false (if Search is disable Menu will align in Right) ***
+search = true
+header_search_layout = "expanded" # "expanded" or "popupable"
+# Menu align *** "left", "right" or "center" (if Search is disable Menu will align in Right) ***
+menu_align = "center"
+# Blog-details page sidebar
+sidebar = "right" # Sidebar value ("left", "right" or false)
+
+# google tag manager, see https://developers.google.com/tag-manager/
+google_tag_manager = "G-MZXEZTBHL2" # example: G-XXXXXXXXXX
+
+
+######################## Site Variables #########################
+[params.variables]
+# Color Variables
+primary_color = "#56642A"
+secondary_color = "#849531"
+text_color = "#444"
+text_color_dark = "#222222"
+body_color = "#fff"
+border_color = "#92A332"
+black = "#000"
+white = "#fff"
+light = "#F8F8F8"
+
+# Trying for this theme
+# 56642A
+# 849531
+# 92A332
+
+# font variable
+# Give your font name from google font. add font weight using ":wght@" and separate by ";"
+# example: "Work Sans:wght@400;500;600"
+primary_font = "Raleway:wght@400;700"
+secondary_font = ""
+icon_font = "Font Awesome 5 Free"
+
+# base font size for full website 
+# https://type-scale.com/
+font_size = "21px" # default is 16px
+#font_scale = "1.25" # default is "majorThird": 1.25
+# Font Scale Sizes
+# "minorSecond": 1.067,
+# "majorSecond": 1.125,
+# "minorThird": 1.2,
+# "majorThird": 1.25,
+# "perfectFourth": 1.333,
+# "augmentedFourth": 1.414,
+# "perfectFifth": 1.5,
+# "goldenRatio": 1.618
+
+######################## sidebar widgets #########################
+[params.widgets]
+sidebar = ["categories", "featured-post", "tags", "social", "subscription"]
+# available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
+
+# preloader
+[params.preloader]
+enable = false
+preloader = "" # use png, jpg, svg or gif format
+
+# Subscription
+[params.subscription]
+enable = false
+# mailchimp subsciption
+# mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+# mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+# title = "Subscribe for our monthly newsletter."
+# input_placeholder = "Enter your email"
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+########################## Plugings ######################################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
+attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "fab fa-twitter" # Fontawesome icon pack https://fontawesome.com/icons
+link = "https://twitter.com/bernierh"
+[[params.social]]
+icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
+link = "https://github.com/hugoabernier"
+[[params.social]]
+icon = "fab fa-linkedin" # Fontawesome icon pack https://fontawesome.com/icons
+link = "https://twitter.com/bernierh"
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content"
+weight = 1
+
+####################### Banner #######################################
+[Languages.en.banner]
+bg_image = "images/banner-shape.png"
+title = "Hi, I'm Hugo! <br> The world's <strong>laziest</strong><br>developer."
+image = "images/banner-image.png"
+
+
+######################## About Me Widget ###############################
+[Languages.en.about_me]
+title = "Hi, I'm Hugo Bernier"
+bio = "World's laziest developer. Autistic. ADHD. Microsoft employee. Powered by coffee."
+
+
+[[params.social_profile]]
+icon = "fab fa-twitter" # Fontawesome icon pack https://fontawesome.com/icons
+link = "https://twitter.com/bernierh"
+[[params.social_profile]]
+icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
+link = "https://github.com/hugoabernier"
+[[params.social_profile]]
+icon = "fab fa-linkedin" # Fontawesome icon pack https://fontawesome.com/icons
+link = "https://github.com/hugoabernier"
+
+######################## call to action ###############################
+[params.cta]
+enable = false
+image = "images/hugo-muscot.svg"
+title = "Get the best hugo templates"
+description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+
+[params.cta.button]
+enable = false
+label = "Visit Here"
+link = "https://gethugothemes.com/shop/"
+
+############################# English - Main Menu ########################
+  
+[[Languages.en.menu.main]]
+weight = 3
+url = "about"
+name = "About"
+  
+[[Languages.en.menu.main]]
+weight = 4
+url = "contact"
+name = "Contact"
+  
+
+
+[[Languages.en.menu.main]]
+weight = 6
+url = "public-speaking"
+name = "Speaking"
+
+
+############################# Footer Menu ########################
+
+[[Languages.en.menu.footer]]
+weight = 3
+url = "privacy/"
+name = "Privacy"
+
+[[Languages.en.menu.footer]]
+weight = 4
+url = "terms-conditions/"
+name = "Terms & Conditions"
