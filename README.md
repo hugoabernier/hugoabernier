@@ -6,7 +6,7 @@
 
 I work at Microsoft as a Cloud Solution Architect. 
 
-I've been working with SharePoint since is was still codenamed **Tahoe** and I still love it.
+I've been working with SharePoint since is was still codenamed **Tahoe** (that's why my blog is called [TahoeNinjas.blog](https://tahoeninjas.blog)) and I still love it.
 
 I've also been using Dynamics 365 since the early days. 
 
