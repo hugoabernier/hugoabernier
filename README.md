@@ -4,8 +4,6 @@
 
 <img src='https://github.com/hugoabernier/hugoabernier/raw/master/assets/tahoeninjatransparent.png' alt='Tahoe Ninja' width='100'/>
 
-I work at Microsoft as a Principal Program Manager in the Dynamics 365 & Power Platform Community Success team. 
-
 I've been working with SharePoint since is was still codenamed **Tahoe** and I still love it.
 
 I've also been using Dynamics 365 since the early days. 
